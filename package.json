@@ -1,6 +1,6 @@
 {
   "name": "angular-ui-widgets",
-  "main": "dist/malhar-angular-widgets.js"
+  "main": "dist/malhar-angular-widgets.js",
   "version": "0.2.0",
   "author": "https://github.com/DataTorrent/malhar-angular-widgets/graphs/contributors",
   "homepage": "https://github.com/DataTorrent/malhar-angular-widgets",
